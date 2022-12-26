@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
+    "mangodb": "^1.0.0",
+    "mongodb": "^4.13.0",
     "next": "13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
